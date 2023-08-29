@@ -1,0 +1,212 @@
+"","Name","Selection_data_per_level","Selection_relevant_data","area","Thematic category"
+"1","AUTHORITY // High",1,1,"Political","Politics and society"
+"2","AUTHORITY // Low",1,1,"Political","Politics and society"
+"3","AUTHORITY // Medium",1,1,"Political","Politics and society"
+"4","AUTONOMY // 0.3-0.7",1,1,"Ethical","Perceptions of life"
+"5","AUTONOMY // 0.7-1",1,1,"Ethical","Perceptions of life"
+"6","AUTONOMY // 0-0.3",1,1,"Ethical","Perceptions of life"
+"7","Autonomy Index // 0",1,1,"Ethical","Perceptions of life"
+"8","Autonomy Index // 1",1,1,"Ethical","Perceptions of life"
+"9","Autonomy Index // -1",1,1,"Ethical","Perceptions of life"
+"10","Autonomy Index // Determination, perseverance/Independence",1,1,"Ethical","Perceptions of life"
+"11","Autonomy Index // Missing",0,0,"not_selected",NA
+"12","CHOICE // 0.3-0.7",1,1,"Ethical","Perceptions of life"
+"13","CHOICE // 0.7-1",1,1,"Ethical","Perceptions of life"
+"14","CHOICE // 0-0.3",1,1,"Ethical","Perceptions of life"
+"15","DEFIANCE // 0.3-0.7",1,1,"Political","National identity"
+"16","DEFIANCE // 0.7-1",1,1,"Political","National identity"
+"17","DEFIANCE // 0-0.3",1,1,"Political","National identity"
+"18","Emancipative Values // 0.1-0.2",1,1,"Social","Perceptions of life"
+"19","Emancipative Values // 0.2-0.3",1,1,"Social","Perceptions of life"
+"20","Emancipative Values // 0.3-0.4",1,1,"Social","Perceptions of life"
+"21","Emancipative Values // 0.4-0.5",1,1,"Social","Perceptions of life"
+"22","Emancipative Values // 0.5-0.6",1,1,"Social","Perceptions of life"
+"23","Emancipative Values // 0.6-0.7",1,1,"Social","Perceptions of life"
+"24","Emancipative Values // 0.7-0.8",1,1,"Social","Perceptions of life"
+"25","Emancipative Values // 0.8-0.9",1,1,"Social","Perceptions of life"
+"26","Emancipative Values // 0.9-1",1,1,"Social","Perceptions of life"
+"27","Emancipative Values // 0-0.1",1,1,"Social","Perceptions of life"
+"28","Emancipative Values // No",1,1,"Social","Family"
+"29","Emancipative Values // Yes",1,1,"Social","Family"
+"30","IMAGIN // No",1,1,"Ethical","Family"
+"31","IMAGIN // Yes",1,1,"Ethical","Family"
+"32","INDEP // No",1,1,"Ethical","Family"
+"33","INDEP // Yes",1,1,"Ethical","Family"
+"34","NATIONALISM // High",1,1,"Political","National identity"
+"35","NATIONALISM // Low",1,1,"Political","National identity"
+"36","NATIONALISM // Very high",1,1,"Political","National identity"
+"37","NATIONALISM // Very low",1,1,"Political","National identity"
+"38","NORM1 // Conformist",1,1,"Ethical","Politics and society"
+"39","NORM1 // Inconformist",1,1,"Ethical","Politics and society"
+"40","NORM2 // Conformist",1,1,"Ethical","Politics and society"
+"41","NORM2 // Inconformist",1,1,"Ethical","Politics and society"
+"42","NORM3 // Conformist",1,1,"Ethical","Politics and society"
+"43","NORM3 // Inconformist",1,1,"Ethical","Politics and society"
+"44","RELATIVISM // 0.3-0.7",1,1,"Ethical","Politics and society"
+"45","RELATIVISM // 0.7-1",1,1,"Ethical","Politics and society"
+"46","RELATIVISM // 0-0.3",1,1,"Ethical","Politics and society"
+"47","RESEMAVAL // 0.3-0.7",1,1,"Social","Perceptions of life"
+"48","RESEMAVAL // 0.7-1",1,1,"Social","Perceptions of life"
+"49","RESEMAVAL // 0-0.3",1,1,"Social","Perceptions of life"
+"50","SACSECVAL // 0.3-0.7",1,1,"Social","Politics and society"
+"51","SACSECVAL // 0.7-1",1,1,"Social","Politics and society"
+"52","SACSECVAL // 0-0.3",1,1,"Social","Politics and society"
+"53","SCEPTICISM // 0.3-0.7",1,1,"Social","Security"
+"54","SCEPTICISM // 0.7-1",1,1,"Social","Security"
+"55","SCEPTICISM // 0-0.3",1,1,"Social","Security"
+"56","TRUSTARMY // High",1,1,"Political","Security"
+"57","TRUSTARMY // Low",1,1,"Political","Security"
+"58","TRUSTARMY // Very high",1,1,"Political","Security"
+"59","TRUSTARMY // Very low",1,1,"Political","Security"
+"60","TRUSTCOURTS // High",1,1,"Political","Security"
+"61","TRUSTCOURTS // Low",1,1,"Political","Security"
+"62","TRUSTCOURTS // Very high",1,1,"Political","Security"
+"63","TRUSTCOURTS // Very low",1,1,"Political","Security"
+"64","TRUSTPOLICE // High",1,1,"Political","Security"
+"65","TRUSTPOLICE // Low",1,1,"Political","Security"
+"66","TRUSTPOLICE // Very high",1,1,"Political","Security"
+"67","TRUSTPOLICE // Very low",1,1,"Political","Security"
+"68","VOI2_00 // High",1,1,"Ethical","Politics and society"
+"69","VOI2_00 // Low",1,1,"Ethical","Politics and society"
+"70","VOI2_00 // Medium",1,1,"Ethical","Politics and society"
+"71","VOICE // 0.3-0.7",1,1,"Ethical","Politics and society"
+"72","VOICE // 0.7-1",1,1,"Ethical","Politics and society"
+"73","VOICE // 0-0.3",1,1,"Ethical","Politics and society"
+"74","VOICE1 // High",1,1,"Ethical","Politics and society"
+"75","VOICE1 // Low",1,1,"Ethical","Politics and society"
+"76","VOICE1 // Very high",1,1,"Ethical","Politics and society"
+"77","VOICE1 // Very low",1,1,"Ethical","Politics and society"
+"78","VOICE2 // Alto",1,1,"Ethical","Politics and society"
+"79","VOICE2 // Bajo",1,1,"Ethical","Politics and society"
+"80","VOICE2 // Medio",1,1,"Ethical","Politics and society"
+"81","Post // Materialist 4-item",1,1,"Ethical","Politics and society"
+"82","Post // Mixed 4-item",1,1,"Ethical","Politics and society"
+"83","Post // Postmaterialist 4-item",1,1,"Ethical","Politics and society"
+"84","Post // Other missing; Multiple answers Mail (EVS)  4-item",0,0,"not_selected",NA
+"85","Post // Materialist 12-item",1,1,"Ethical","Politics and society"
+"86","Post // 1 12-item",1,1,"Ethical","Politics and society"
+"87","Post // 2 12-item",1,1,"Ethical","Politics and society"
+"88","Post // 3 12-item",1,1,"Ethical","Politics and society"
+"89","Post // 4 12-item",1,1,"Ethical","Politics and society"
+"90","Post // Postmaterialist 12-item",1,1,"Ethical","Politics and society"
+"91","Post // No answer 12-item",0,0,"not_selected",NA
+"92","ABORTLIB // High",1,0,"not_selected",NA
+"93","ABORTLIB // Low",1,0,"not_selected",NA
+"94","ABORTLIB // Medium",1,0,"not_selected",NA
+"95","Autonomy Index // (N)",0,0,"not_selected",NA
+"96","Autonomy Index // Obedience/Religious Faith",1,0,"not_selected",NA
+"97","DEVOUT // High",1,0,"not_selected",NA
+"98","DEVOUT // Low",1,0,"not_selected",NA
+"99","DEVOUT // Very high",1,0,"not_selected",NA
+"100","DEVOUT // Very low",1,0,"not_selected",NA
+"101","DISBELIEF // 0.3-0.7",1,0,"not_selected",NA
+"102","DISBELIEF // 0.7-1",1,0,"not_selected",NA
+"103","DISBELIEF // 0-0.3",1,0,"not_selected",NA
+"104","DIVORLIB // High",1,0,"not_selected",NA
+"105","DIVORLIB // Low",1,0,"not_selected",NA
+"106","DIVORLIB // Medium",1,0,"not_selected",NA
+"107","HOMOLIB // High",1,0,"not_selected",NA
+"108","HOMOLIB // Low",1,0,"not_selected",NA
+"109","HOMOLIB // Medium",1,0,"not_selected",NA
+"110","RELIGBEL // Not religious or atheist",1,0,"not_selected",NA
+"111","RELIGBEL // Religious",1,0,"not_selected",NA
+"112","RELIGIMP // High",1,0,"not_selected",NA
+"113","RELIGIMP // Low",1,0,"not_selected",NA
+"114","RELIGIMP // Very high",1,0,"not_selected",NA
+"115","RELIGIMP // Very low",1,0,"not_selected",NA
+"116","RELIGPRAC // High",1,0,"not_selected",NA
+"117","RELIGPRAC // Low",1,0,"not_selected",NA
+"118","RELIGPRAC // Medium",1,0,"not_selected",NA
+"119","WOMEDU // High",1,0,"not_selected",NA
+"120","WOMEDU // Low",1,0,"not_selected",NA
+"121","WOMEDU // Very high",1,0,"not_selected",NA
+"122","WOMEDU // Very low",1,0,"not_selected",NA
+"123","WOMJOB // High",1,0,"not_selected",NA
+"124","WOMJOB // Low",1,0,"not_selected",NA
+"125","WOMJOB // Medium",1,0,"not_selected",NA
+"126","WOMJOB // Medium-High",1,0,"not_selected",NA
+"127","WOMJOB // Medium-Low",1,0,"not_selected",NA
+"128","WOMPOL // High",1,0,"not_selected",NA
+"129","WOMPOL // Low",1,0,"not_selected",NA
+"130","WOMPOL // Very high",1,0,"not_selected",NA
+"131","WOMPOL // Very low",1,0,"not_selected",NA
+"132","ABORTLIB // (N)",0,0,"not_selected",NA
+"133","ABORTLIB // Base mean",0,0,"not_selected",NA
+"134","ABORTLIB // Mean",0,0,"not_selected",NA
+"135","ABORTLIB // Std Dev.",0,0,"not_selected",NA
+"136","AUTHORITY // (N)",0,0,"not_selected",NA
+"137","AUTONOMY // (N)",0,0,"not_selected",NA
+"138","AUTONOMY // Base mean",0,0,"not_selected",NA
+"139","AUTONOMY // Mean",0,0,"not_selected",NA
+"140","AUTONOMY // Std Dev.",0,0,"not_selected",NA
+"141","Autonomy Index // Base mean",0,0,"not_selected",NA
+"142","Autonomy Index // Mean",0,0,"not_selected",NA
+"143","Autonomy Index // Std Dev.",0,0,"not_selected",NA
+"144","CHOICE // (N)",0,0,"not_selected",NA
+"145","CHOICE // Base mean",0,0,"not_selected",NA
+"146","CHOICE // Mean",0,0,"not_selected",NA
+"147","CHOICE // Std Dev.",0,0,"not_selected",NA
+"148","DEFIANCE // (N)",0,0,"not_selected",NA
+"149","DEFIANCE // Base mean",0,0,"not_selected",NA
+"150","DEFIANCE // Mean",0,0,"not_selected",NA
+"151","DEFIANCE // Std Dev.",0,0,"not_selected",NA
+"152","DEVOUT // (N)",0,0,"not_selected",NA
+"153","DISBELIEF // (N)",0,0,"not_selected",NA
+"154","DISBELIEF // Base mean",0,0,"not_selected",NA
+"155","DISBELIEF // Mean",0,0,"not_selected",NA
+"156","DISBELIEF // Std Dev.",0,0,"not_selected",NA
+"157","DIVORLIB // (N)",0,0,"not_selected",NA
+"158","DIVORLIB // Base mean",0,0,"not_selected",NA
+"159","DIVORLIB // Mean",0,0,"not_selected",NA
+"160","DIVORLIB // Std Dev.",0,0,"not_selected",NA
+"161","Emancipative Values // (N)",0,0,"not_selected",NA
+"162","Emancipative Values // Base mean",0,0,"not_selected",NA
+"163","Emancipative Values // Mean",0,0,"not_selected",NA
+"164","Emancipative Values // Std Dev.",0,0,"not_selected",NA
+"165","HOMOLIB // (N)",0,0,"not_selected",NA
+"166","HOMOLIB // Base mean",0,0,"not_selected",NA
+"167","HOMOLIB // Mean",0,0,"not_selected",NA
+"168","HOMOLIB // Std Dev.",0,0,"not_selected",NA
+"169","IMAGIN // (N)",0,0,"not_selected",NA
+"170","INDEP // (N)",0,0,"not_selected",NA
+"171","NATIONALISM // (N)",0,0,"not_selected",NA
+"172","NORM1 // (N)",0,0,"not_selected",NA
+"173","NORM2 // (N)",0,0,"not_selected",NA
+"174","NORM3 // (N)",0,0,"not_selected",NA
+"175","RELATIVISM // (N)",0,0,"not_selected",NA
+"176","RELATIVISM // Base mean",0,0,"not_selected",NA
+"177","RELATIVISM // Mean",0,0,"not_selected",NA
+"178","RELATIVISM // Std Dev.",0,0,"not_selected",NA
+"179","RELIGBEL // (N)",0,0,"not_selected",NA
+"180","RELIGIMP // (N)",0,0,"not_selected",NA
+"181","RELIGPRAC // (N)",0,0,"not_selected",NA
+"182","RESEMAVAL // (N)",0,0,"not_selected",NA
+"183","RESEMAVAL // Base mean",0,0,"not_selected",NA
+"184","RESEMAVAL // Mean",0,0,"not_selected",NA
+"185","RESEMAVAL // Std Dev.",0,0,"not_selected",NA
+"186","SACSECVAL // (N)",0,0,"not_selected",NA
+"187","SACSECVAL // Base mean",0,0,"not_selected",NA
+"188","SACSECVAL // Mean",0,0,"not_selected",NA
+"189","SACSECVAL // Std Dev.",0,0,"not_selected",NA
+"190","SCEPTICISM // (N)",0,0,"not_selected",NA
+"191","SCEPTICISM // Base mean",0,0,"not_selected",NA
+"192","SCEPTICISM // Mean",0,0,"not_selected",NA
+"193","SCEPTICISM // Std Dev.",0,0,"not_selected",NA
+"194","TRUSTARMY // (N)",0,0,"not_selected",NA
+"195","TRUSTCOURTS // (N)",0,0,"not_selected",NA
+"196","TRUSTPOLICE // (N)",0,0,"not_selected",NA
+"197","VOI2_00 // (N)",0,0,"not_selected",NA
+"198","VOICE // (N)",0,0,"not_selected",NA
+"199","VOICE // Base mean",0,0,"not_selected",NA
+"200","VOICE // Mean",0,0,"not_selected",NA
+"201","VOICE // Std Dev.",0,0,"not_selected",NA
+"202","VOICE1 // (N)",0,0,"not_selected",NA
+"203","VOICE2 // (N)",0,0,"not_selected",NA
+"204","WOMEDU // (N)",0,0,"not_selected",NA
+"205","WOMJOB // (N)",0,0,"not_selected",NA
+"206","WOMPOL // (N)",0,0,"not_selected",NA
+"207","Post // (N) 4-item",0,0,"not_selected",NA
+"208","Post // (N) 12-item",0,0,"not_selected",NA
+"209","Post // Mean 12-item",0,0,"not_selected",NA
+"210","Post // Std Dev. 12-item",0,0,"not_selected",NA
+"211","Post // Base mean 12-item",0,0,"not_selected",NA
